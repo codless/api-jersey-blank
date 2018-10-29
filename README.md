@@ -39,3 +39,9 @@ Test generates json from object
 
 Test receiver json and create a object 
  
+---
+
+**Contribute**
+
+You can contribute, just create new issue with your proposal and send a new request.
+ 
